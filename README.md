@@ -21,7 +21,8 @@ To Implement Matrix Multiplication using GPU.
 # Program :
 
 Developed By: Gayathri A
-Register No. 212221230028
+
+Register No: 212221230028
 ```
 #include <stdio.h>
 #include <sys/time.h>
